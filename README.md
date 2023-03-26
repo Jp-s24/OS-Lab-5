@@ -12,5 +12,5 @@ Jean-Paul Saliba
 100741759
 
 # Running the Program 
-1. Run the make command in the terminal
-2. Execute the terminal using the ./banker command 
+1. Run the ```make``` command in the terminal
+2. Execute the terminal using the ```./banker``` command 
